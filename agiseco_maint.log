@@ -1,0 +1,509 @@
+[Mon Oct 20 03:01:12 AM AEDT 2025] Maintenance script started
+[Mon Oct 20 03:01:12 AM AEDT 2025] Build successful
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+[Mon Oct 20 03:01:13 AM AEDT 2025] Service FAILED to start
+[Mon Oct 20 03:06:31 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:5:5: "io/fs" imported and not used
+./agiseco_monitor.go:6:5: "log" imported and not used
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 03:06:36 AM AEDT 2025] Build FAILED
+[Mon Oct 20 03:11:36 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:14:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 03:11:37 AM AEDT 2025] Build FAILED
+[Mon Oct 20 03:16:38 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:14:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 03:16:39 AM AEDT 2025] Build FAILED
+[Mon Oct 20 11:10:29 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 11:10:56 AM AEDT 2025] Build FAILED
+[Mon Oct 20 11:15:26 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 11:15:53 AM AEDT 2025] Build FAILED
+[Mon Oct 20 11:20:26 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 11:20:29 AM AEDT 2025] Build FAILED
+[Mon Oct 20 11:25:22 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 11:25:28 AM AEDT 2025] Build FAILED
+[Mon Oct 20 11:30:23 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 11:30:25 AM AEDT 2025] Build FAILED
+[Mon Oct 20 11:35:42 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 11:39:46 AM AEDT 2025] Build FAILED
+[Mon Oct 20 11:40:39 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 11:40:46 AM AEDT 2025] Build FAILED
+[Mon Oct 20 11:45:53 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 11:48:23 AM AEDT 2025] Build FAILED
+[Mon Oct 20 11:53:05 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 11:53:55 AM AEDT 2025] Build FAILED
+[Mon Oct 20 11:58:29 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 11:59:25 AM AEDT 2025] Build FAILED
+[Mon Oct 20 12:02:19 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 12:02:26 PM AEDT 2025] Build FAILED
+[Mon Oct 20 12:07:36 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 12:07:53 PM AEDT 2025] Build FAILED
+[Mon Oct 20 12:12:41 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 12:12:42 PM AEDT 2025] Build FAILED
+[Mon Oct 20 12:17:44 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 12:17:46 PM AEDT 2025] Build FAILED
+[Mon Oct 20 12:22:48 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 12:22:49 PM AEDT 2025] Build FAILED
+[Mon Oct 20 12:27:46 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 12:27:47 PM AEDT 2025] Build FAILED
+[Mon Oct 20 12:32:51 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 12:32:52 PM AEDT 2025] Build FAILED
+[Mon Oct 20 12:37:58 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 12:37:58 PM AEDT 2025] Build FAILED
+[Mon Oct 20 12:43:02 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 12:43:03 PM AEDT 2025] Build FAILED
+[Mon Oct 20 12:48:08 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 12:48:09 PM AEDT 2025] Build FAILED
+[Mon Oct 20 12:53:14 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Mon Oct 20 12:53:15 PM AEDT 2025] Build FAILED
+[Tue Oct 21 11:20:19 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 11:20:22 AM AEDT 2025] Build FAILED
+[Tue Oct 21 11:25:14 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 11:25:17 AM AEDT 2025] Build FAILED
+[Tue Oct 21 11:30:12 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 11:30:14 AM AEDT 2025] Build FAILED
+[Tue Oct 21 11:35:16 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 11:35:21 AM AEDT 2025] Build FAILED
+[Tue Oct 21 11:40:18 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 11:40:23 AM AEDT 2025] Build FAILED
+[Tue Oct 21 11:45:14 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 11:45:15 AM AEDT 2025] Build FAILED
+[Tue Oct 21 11:50:17 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 11:50:20 AM AEDT 2025] Build FAILED
+[Tue Oct 21 11:55:20 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 11:55:22 AM AEDT 2025] Build FAILED
+[Tue Oct 21 12:00:28 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 12:00:30 PM AEDT 2025] Build FAILED
+[Tue Oct 21 12:05:28 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 12:05:31 PM AEDT 2025] Build FAILED
+[Tue Oct 21 12:10:32 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 12:10:38 PM AEDT 2025] Build FAILED
+[Tue Oct 21 12:15:37 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 12:15:41 PM AEDT 2025] Build FAILED
+[Tue Oct 21 12:20:44 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 12:20:47 PM AEDT 2025] Build FAILED
+[Tue Oct 21 12:25:47 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 12:25:48 PM AEDT 2025] Build FAILED
+[Tue Oct 21 12:30:47 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 12:30:49 PM AEDT 2025] Build FAILED
+[Tue Oct 21 12:35:49 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 12:35:50 PM AEDT 2025] Build FAILED
+[Tue Oct 21 12:40:51 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 12:40:52 PM AEDT 2025] Build FAILED
+[Tue Oct 21 12:45:51 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 12:45:52 PM AEDT 2025] Build FAILED
+[Tue Oct 21 12:50:51 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 12:50:52 PM AEDT 2025] Build FAILED
+[Tue Oct 21 12:55:54 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 12:55:55 PM AEDT 2025] Build FAILED
+[Tue Oct 21 01:00:55 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 01:00:57 PM AEDT 2025] Build FAILED
+[Tue Oct 21 01:05:59 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 01:06:01 PM AEDT 2025] Build FAILED
+[Tue Oct 21 01:11:01 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 01:11:02 PM AEDT 2025] Build FAILED
+[Tue Oct 21 01:16:02 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 01:16:03 PM AEDT 2025] Build FAILED
+[Tue Oct 21 01:21:09 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 01:21:10 PM AEDT 2025] Build FAILED
+[Tue Oct 21 01:26:17 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 01:26:18 PM AEDT 2025] Build FAILED
+[Tue Oct 21 01:31:22 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 01:31:23 PM AEDT 2025] Build FAILED
+[Tue Oct 21 01:36:29 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 01:36:30 PM AEDT 2025] Build FAILED
+[Tue Oct 21 01:41:38 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 01:41:39 PM AEDT 2025] Build FAILED
+[Tue Oct 21 01:46:44 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 01:46:45 PM AEDT 2025] Build FAILED
+[Tue Oct 21 01:51:51 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 01:51:52 PM AEDT 2025] Build FAILED
+[Tue Oct 21 01:56:53 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 01:56:55 PM AEDT 2025] Build FAILED
+[Tue Oct 21 02:01:58 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 02:01:59 PM AEDT 2025] Build FAILED
+[Tue Oct 21 02:06:58 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 02:06:59 PM AEDT 2025] Build FAILED
+[Tue Oct 21 02:12:05 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 02:12:06 PM AEDT 2025] Build FAILED
+[Tue Oct 21 02:17:12 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 02:17:12 PM AEDT 2025] Build FAILED
+[Tue Oct 21 02:22:20 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 02:22:21 PM AEDT 2025] Build FAILED
+[Tue Oct 21 02:27:29 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 02:27:30 PM AEDT 2025] Build FAILED
+[Tue Oct 21 02:32:40 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 02:32:41 PM AEDT 2025] Build FAILED
+[Tue Oct 21 02:37:51 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 02:37:52 PM AEDT 2025] Build FAILED
+[Tue Oct 21 02:43:01 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 02:43:02 PM AEDT 2025] Build FAILED
+[Tue Oct 21 02:48:08 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 02:48:08 PM AEDT 2025] Build FAILED
+[Tue Oct 21 02:53:17 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 02:53:18 PM AEDT 2025] Build FAILED
+[Tue Oct 21 02:58:26 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 02:58:26 PM AEDT 2025] Build FAILED
+[Tue Oct 21 03:03:34 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 03:03:35 PM AEDT 2025] Build FAILED
+[Tue Oct 21 03:08:39 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 03:08:39 PM AEDT 2025] Build FAILED
+[Tue Oct 21 03:13:44 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 03:13:44 PM AEDT 2025] Build FAILED
+[Tue Oct 21 03:18:55 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 03:18:56 PM AEDT 2025] Build FAILED
+[Tue Oct 21 03:24:05 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 03:24:06 PM AEDT 2025] Build FAILED
+[Tue Oct 21 03:29:17 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 03:29:18 PM AEDT 2025] Build FAILED
+[Tue Oct 21 03:34:30 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 03:34:31 PM AEDT 2025] Build FAILED
+[Tue Oct 21 03:39:43 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 03:39:44 PM AEDT 2025] Build FAILED
+[Tue Oct 21 03:44:57 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 03:44:57 PM AEDT 2025] Build FAILED
+[Tue Oct 21 03:50:10 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 03:50:10 PM AEDT 2025] Build FAILED
+[Tue Oct 21 03:55:25 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 03:55:26 PM AEDT 2025] Build FAILED
+[Tue Oct 21 04:00:40 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 04:00:41 PM AEDT 2025] Build FAILED
+[Tue Oct 21 04:05:55 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 04:05:56 PM AEDT 2025] Build FAILED
+[Tue Oct 21 04:11:11 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 04:11:11 PM AEDT 2025] Build FAILED
+[Tue Oct 21 04:16:28 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 04:16:28 PM AEDT 2025] Build FAILED
+[Tue Oct 21 04:21:35 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 04:21:36 PM AEDT 2025] Build FAILED
+[Tue Oct 21 04:26:45 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 04:26:46 PM AEDT 2025] Build FAILED
+[Tue Oct 21 04:31:57 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 04:31:58 PM AEDT 2025] Build FAILED
+[Tue Oct 21 04:37:07 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 04:37:08 PM AEDT 2025] Build FAILED
+[Tue Oct 21 04:42:17 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 04:42:17 PM AEDT 2025] Build FAILED
+[Tue Oct 21 04:47:33 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 04:47:33 PM AEDT 2025] Build FAILED
+[Tue Oct 21 04:52:47 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 04:52:47 PM AEDT 2025] Build FAILED
+[Tue Oct 21 04:58:03 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 04:58:04 PM AEDT 2025] Build FAILED
+[Tue Oct 21 05:03:21 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 05:03:21 PM AEDT 2025] Build FAILED
+[Tue Oct 21 05:08:40 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 05:08:40 PM AEDT 2025] Build FAILED
+[Tue Oct 21 05:13:57 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 05:13:58 PM AEDT 2025] Build FAILED
+[Tue Oct 21 05:19:16 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 05:19:16 PM AEDT 2025] Build FAILED
+[Tue Oct 21 05:24:35 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 05:24:36 PM AEDT 2025] Build FAILED
+[Tue Oct 21 05:29:54 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 05:29:55 PM AEDT 2025] Build FAILED
+[Tue Oct 21 05:35:16 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 05:35:16 PM AEDT 2025] Build FAILED
+[Tue Oct 21 05:40:36 PM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Tue Oct 21 05:40:37 PM AEDT 2025] Build FAILED
+[Wed Oct 22 08:29:43 AM AEDT 2025] Maintenance script started
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Wed Oct 22 08:29:57 AM AEDT 2025] Build FAILED
