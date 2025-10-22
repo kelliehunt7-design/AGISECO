@@ -560,3 +560,7 @@ Use '--' to separate paths from revisions, like this:
 ./agiseco_monitor.go:16:6: main redeclared in this block
 	./agiseco.go:20:6: other declaration of main
 [Wed Oct 22 11:01:30 AM AEDT 2025] Build FAILED
+# agiseco
+./agiseco_monitor.go:16:6: main redeclared in this block
+	./agiseco.go:20:6: other declaration of main
+[Wed Oct 22 01:14:22 PM AEDT 2025] Build FAILED
